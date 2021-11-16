@@ -6,4 +6,5 @@ must run with risc simulator:
 https://github.com/UCDClassNitta/riscv-console
 
 .../newest1: project files and compiled binary file(firmware) of RSCOS.
+
 .../cartridge*: sample cartridges to test the APIs implemented in the firmware.
